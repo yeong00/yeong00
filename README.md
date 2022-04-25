@@ -18,9 +18,8 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
-  <h3>📌 Main Language</h3>
-  <a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeong00&theme=buefy&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+ 
+ </a>
 </div>
 
 
